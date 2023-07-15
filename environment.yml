@@ -1,0 +1,7 @@
+name: py39
+channels:
+  - defaults
+dependencies:
+  - pandas=1.2
+  - python=3.9
+prefix: /home/royer01/miniconda3/envs/py39
